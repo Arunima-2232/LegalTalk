@@ -1,0 +1,92 @@
+ 
+HIGH COURT OF AUSTRALIA 
+ 
+GLEESON CJ, 
+McHUGH, GUMMOW, KIRBY, HAYNE AND HEYDON JJ 
+ 
+ 
+ 
+EDDY STEVENS APPELLANT 
+ 
+AND 
+ 
+KABUSHIKI KAISHA SONY COMPUTER 
+ENTERTAINMENT & ORS  RESPONDENTS 
+ 
+Stevens v Kabushiki Kaisha Sony Computer Entertainment [2005] HCA 58 
+6 October 2005 
+S319/2004 
+ 
+ORDER 
+ 
+1. Appeal allowed with costs. 
+ 
+2. Set aside the orders of the Full Court of the Federal Court of Australia 
+made on 30 July 2003 and, in their place, order that the appeal to that 
+Court be dismissed with costs. 
+ 
+ 
+On appeal from the Federal Court of Australia 
+ 
+ 
+Representation: 
+ 
+J V Nicholas SC with C Dimitriadis for the appellant (instructed by Gadens 
+Lawyers) 
+ 
+D K Catterns QC and R Cobden for the respondents (instructed by Blake 
+Dawson Waldron) 
+ 
+J Basten QC with G C McGowan SC and L G de Ferrari appearing as amici 
+curiae on behalf of the Australian Digital Alliance Limited and the Australian 
+Libraries Copyright Committee (instructed by Sarah Waladan) 
+ 
+ 
+Notice:  This copy of the Court's Reasons for Judgment is subject to 
+formal revision prior to publication in the Commonwealth Law Reports.  
+CATCHWORDS  
+ 
+Stevens v Kabushiki Kaisha Sony Computer Entertainment 
+ 
+Intellectual property – Copyright – Circumvention devices – Circumvention of a 
+technological protection measure – Definition of "technological protection 
+measure" in s 10(1) of the Copyright Act 1968 (Cth) ("the Act") – Respondents 
+produced and sold computer games on CD -ROMs for use with PlayStation 
+consoles – Access codes on the CD-ROMs could not be reproduced by 
+conventional CD recor ding or copying devices – Games could only be played if 
+access codes were read by the boot ROM device within a PlayStation console –  
+Appellant sold and installed "mod chips" into PlayStation consoles which 
+allowed unauthorised copies of games to be played – Whether appellant had 
+knowingly sold or distributed a circumvention device which was capable of 
+circumventing, or facilitating the circumvention of, a technological protection 
+measure – Whether access codes and boot ROM were technological protection 
+measures – Whether access codes and boot ROM prevented or inhibited the 
+infringement of copyright by preventing access to unauthorised copies of games. 
+ 
+Intellectual property –  Copyright – Circumvention devices – Literary works –  
+Computer programs – Reproduction in a material form – Definition of "material 
+form" in s 10(1) of the Act – Parts of program code reproduced in the random 
+access memory ("RAM") of a PlayStation console as game is being played –  
+Whether access codes and boot ROM prevented or inhibited the infringement of 
+copyright in a literary work by preventing a substantial part of a computer 
+program from being reproduced in RAM – Whether RAM a "material form" for 
+the purposes of the Act. 
+ 
+Intellectual property –  Copyright – Circumvention devices – Subject-matter – 
+Cinematograph films – Part of the aggregate of visual images contained in 
+program code copied in the RAM of a PlayStation console as game is being 
+played – Whether access codes and boot ROM prevented or inhibited the 
+infringement of copyright in a cinematograph film by preventing a copy of the 
+film being made in RAM – Whether a substantial part of a cinematograph film is 
+embodied in RAM as game is being played. 
+ 
+Statutes – Statutory construction – Approach where provision is ambiguous –  
+Approach where provision is the product of legislative debate over evolving 
+technology and compromise – Use of extrinsic materials –  Relevance of 
+legislative history – Relevance of policy considerations – Preference for 
+interpretation which upholds fundamental rights. 
+ 
+Words and phrases – "circumvention device", "technological protection 
+measure", "prevent or inhibit", "material form", "cinematograph film", 
+"substantial part". 
+ 

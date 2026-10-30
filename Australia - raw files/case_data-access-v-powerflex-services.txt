@@ -1,0 +1,80 @@
+ 
+HIGH COURT OF AUSTRALIA 
+ 
+GLEESON CJ, 
+GAUDRON, McHUGH, GUMMOW AND HAYNE JJ 
+ 
+ 
+ 
+DATA ACCESS CORPORATION  APPELLANT 
+ 
+AND 
+ 
+POWERFLEX SERVICES PTY LTD & ORS  RESPONDENTS 
+ 
+ 
+Data Access Corporation v Powerflex Services Pty Ltd [1999] HCA 49 
+30 September 1999 
+M113/1997 
+ 
+ 
+ORDER 
+ 
+1. Appeal dismissed with costs. 
+ 
+2. Special leave to cross-appeal granted; cross-appeal treated as instituted 
+and heard instanter and dismissed with costs. 
+ 
+3. Costs of appeal and cross-appeal are to be set off. 
+ 
+ 
+On appeal from the Federal Court of Australia 
+ 
+Representation: 
+ 
+J M Emmerson QC with A K Panna for the appellant (instructed by Stephens 
+Lawyers & Consultants) 
+ 
+R C Macaw QC with J F Bleechmore for the respondents (instructed by 
+Trumble Szanto Lawyers) 
+ 
+ 
+Notice:  This copy of the Court’s Reasons for Judgment is 
+subject to formal revision prior to publication in the 
+Commonwealth Law Reports.  
+ 
+CATCHWORDS 
+ 
+ 
+Data Access Corporation v Powerflex Services Pty Ltd  
+ 
+Intellectual property – Copyright – Subsistence and infringement of copyright – 
+Computer software. 
+ 
+Subsistence of copyright – Computer languages – Words used as commands in one 
+computer language used as commands with identical functions in another 
+computer language – Whether copyright subsists in an individual command – 
+Whether an individual command is itself a "computer program" within s 10(1) of 
+the Copyright Act 1968 (Cth). 
+ 
+Infringement of copyright – Computer program – Application development system 
+designed to enable computer programs to be written using certain commands – 
+Whether a collocation of those commands constitutes a "substantial part" of the 
+application development system – Test of substantiality as applied to computer 
+programs. 
+ 
+Infringement of copyright – Computer program – Whether a macro in one 
+computer program is an "adaptation" of a macro with the same functionality in 
+another computer program – Meaning of "version" in s 10(1) of the Copyright Act 
+1968 (Cth). 
+ 
+Subsistence of copyright – Computer data table used for standard data 
+compressions – Whether the data table is an "original literary work". 
+ 
+Infringement of copyright – Whether process devised to replicate a computer data 
+table by examining its output constitutes a "reproduction" of the table. 
+ 
+Words and phrases – "adaptation" – "computer program" – "literary work" – 
+"reproduction" – "set of instructions" –"substantial part" – "version". 
+ 
+Copyright Act 1968 (Cth), ss 10(1), 14(1)(b), 31(1)(a)(i), 36(1). 
